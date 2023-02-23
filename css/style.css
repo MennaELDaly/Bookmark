@@ -1,0 +1,26 @@
+.bookmark{
+    border-bottom:1px solid #999 ;
+    border-top: 1px solid #999;
+}
+.box{
+    padding: 40px 40px ;
+    margin: 20px ;
+    background-color: #dee2e6;
+}
+.data{
+    background-image: linear-gradient(#EEE,#FFF);
+    padding: 40px 40px ;
+    margin: 20px ;
+    display: flex;
+    justify-content: space-around;
+}
+.copy p{
+    margin: 40px 20px;
+}
+header h2 , .copy p {
+    color: #AAA;
+    font-weight: 600;
+}
+.btn:hover{
+    box-shadow: 2px 5px 3px 0px #888;
+}
